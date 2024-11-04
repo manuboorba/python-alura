@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8adafd20-c42f-4863-90a1-bc221f08e1c9" name="Changes" comment="primeiro commit">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/projetoPythonDataScienceAlura.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/projetoPythonDataScienceAlura.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Projeto/Projeto_Python_Data_Science.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Projeto/Projeto_Python_Data_Science.ipynb" afterDir="false" />
     </list>
@@ -23,16 +25,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "manuboorba"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;manuboorba&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/manuboorba/python-alura.git",
-    "accountId": "ea1034a0-6f7a-494e-a3fe-96801de016f8"
+    "accountId": "6fb46bc5-8386-4989-88b1-a098de48c322"
   }
 }]]></component>
   <component name="ProjectColorInfo">{
@@ -188,8 +190,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23339.19" />
-        <option value="bundled-python-sdk-0029f7779945-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23339.19" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23726.102" />
+        <option value="bundled-python-sdk-5e1850174b45-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23726.102" />
       </set>
     </attachedChunks>
   </component>
@@ -210,6 +212,7 @@
       <workItem from="1729683683843" duration="4608000" />
       <workItem from="1729700665183" duration="520000" />
       <workItem from="1729777922184" duration="3436000" />
+      <workItem from="1730722711227" duration="877000" />
     </task>
     <task id="LOCAL-00001" summary="primeiro commit">
       <option name="closed" value="true" />
